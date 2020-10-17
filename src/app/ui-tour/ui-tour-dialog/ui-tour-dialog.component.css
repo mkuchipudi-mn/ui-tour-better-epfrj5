@@ -1,0 +1,11 @@
+.ui-tour-dialog {
+  display: block;
+  background: #fff;
+  padding: 24px;
+}
+
+.highlight {
+  position: relative;
+  z-index: 1001;
+  pointer-events: none;
+}
